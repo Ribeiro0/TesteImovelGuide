@@ -83,8 +83,7 @@ Não possui vínculo oficial com a empresa Imóvel Guide.
 👨‍💻 Autor
 
 Fellipe Ribeiro
-Desenvolvedor Front-end | Análise de Dados
-🔗 LinkedIn: https://www.linkedin.com
-Animação CSS
 
-Efeito de zoom contínuo com @keyframes
+Desenvolvedor Front-end | Análise de Dados
+
+🔗 LinkedIn: https://www.linkedin.com
